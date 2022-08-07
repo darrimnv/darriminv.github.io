@@ -1,2 +1,1 @@
-# Katherine-Johnson-NASA
-final project CanSheCode by Iminova Darina
+website: https://darrimnv.github.io/darriminv.github.io/
